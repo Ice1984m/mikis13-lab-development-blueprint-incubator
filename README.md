@@ -2,7 +2,7 @@
 
 **Status: LAB / experimental**
 
-Score tijdens incubatie: **96/100**
+Score tijdens incubatie: **91/100**
 
 ## Probleem
 
